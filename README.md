@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h3 align="center">A passionate Beginner</h3>
+<h3 align="center"></h3>
 <p align="center">
   <img src="https://i.ibb.co/kg57yKTS/Houtarou-Oreki.jpg" alt="Virtual Labour" width="400"/>
 </p>
@@ -10,6 +10,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baddreams34&label=Profile%20views&color=0e75b6&style=flat" alt="baddreams34" /> </p>
 
 - 🌱 I’m currently learning **Web Development, React, Python, NodeJS**
+  
+- 🫧 A passionate Beginner
 
 - 👨‍💻 All of my projects are available at [github.com/BadDreams34](github.com/BadDreams34)
 
