@@ -2,6 +2,10 @@
 
 
 <h3 align="center">A passionate Beginner</h3>
+<p align="center">
+  <img src="https://i.ibb.co/4YQxZFb/virtual-labour.png" alt="Virtual Labour" width="400"/>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baddreams34&label=Profile%20views&color=0e75b6&style=flat" alt="baddreams34" /> </p>
 
@@ -24,7 +28,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baddreams34&show_icons=true&locale=en&layout=compact" alt="baddreams34" /></p>
 
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31o4emoaovpxei3oaguwmzy5i73j)
+
 
 
 
