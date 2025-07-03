@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Javascript, NodeJS**
 
-- 📫 How to reach me **https://t.me/mdi38**
+- 📫 How to reach me **https://t.me/mdi38** **https://discord.com/users/860408741936627714**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
