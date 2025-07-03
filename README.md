@@ -17,24 +17,29 @@
 
 - 💬 Ask me about **Javascript, NodeJS**
 
-- 📫 How to reach me **[Telegram](https://t.me/mdi38)** **[Discord](https://discord.com/users/860408741936627714)**
+-How to reach me **[Telegram](https://t.me/mdi38)** **[Discord](https://discord.com/users/860408741936627714)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/baddreams34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baddreams34" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baddreams34&show_icons=true&locale=en&layout=compact" alt="baddreams34" /></p>
 
-
+ 📫 Connect with Me
+ <p>
 <div align="left">
+  <a href="https://discord.com/users/860408741936627714">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  
+</a>
+  <a href="https://t.me/mdi38">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-</div>
+  </a>
+  
+<a href="https://www.leetcode.com/baddreams34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baddreams34" height="30" width="40" /></a>
+</p>
 
 ###
 
@@ -59,11 +64,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Baddreams34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Baddreams34/Baddreams34/output/snake.svg" alt="Snake animation" />
 
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Baddreams34/count.svg?"  />
