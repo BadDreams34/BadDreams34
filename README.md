@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning Web Development, React, Python, NodeJS
-- 📫 How to reach me: [![Telegram](http://t.me/mdi38) [![Discord](https://discord.com/users/860408741936627714)
+- 📫 How to reach me: Telegram http://t.me/mdi38 Discord : https://discord.com/users/860408741936627714
 - 😄 Pronouns: He/Him
 - 👨‍💻 all my projects available at : github.com/BadDreams34
 
