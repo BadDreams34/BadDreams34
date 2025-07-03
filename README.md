@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Beginner</h3>
 <p align="center">
-  <img src="https://i.ibb.co/4YQxZFb/virtual-labour.png" alt="Virtual Labour" width="400"/>
+  <img src="https://i.ibb.co/kg57yKTS/Houtarou-Oreki.jpg" alt="Virtual Labour" width="400"/>
 </p>
 
 
