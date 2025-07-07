@@ -6,10 +6,6 @@
   <img src="https://i.ibb.co/kg57yKTS/Houtarou-Oreki.jpg" alt="Virtual Labour" width="400"/>
 </p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Baddreams34/count.svg?"  />
-</div>
-
 - 🌱 I’m currently learning **Web Development, React, Python, NodeJS**
   
 - 🫧 A passionate Beginner
