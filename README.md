@@ -2,9 +2,6 @@
 
 
 <h3 align="center"></h3>
-<p align="center">
-  <img src="https://i.ibb.co/kg57yKTS/Houtarou-Oreki.jpg" alt="Virtual Labour" width="400"/>
-</p>
 
 - 🌱 I’m currently learning **Web Development, React, Python, NodeJS**
   
