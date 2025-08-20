@@ -77,6 +77,3 @@
 
 ###
 
-
-
-[![Baddreams's Discord](https://dsc-readme.tsuni.dev/api/user/860408741936627714?hideSpotify=true&theme=custom&colorB1=111214&colorB2=313338&colorB3=505059&colorT1=ffffff&colorT2=d2d6d8&width=400)](https://github.com/TetraTsunami/discord-github-preview)
