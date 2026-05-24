@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/BadDreams34](github.com/BadDreams34)
 
-- 💬 Ask me about **Javascript, NodeJS**
+- 💬 Ask me about **Javascript, NodeJS, Python**
 
 
 
