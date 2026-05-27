@@ -1,21 +1,19 @@
-```py
- # information about me, including my name,age,etc.
- about_me = ["Aradhya Baliyan", "20", "Second Year University Student"]
+# Hi there, I'm Aradhya! 👋
 
- # coding languages that i m currently learning
- coding_languages = ["Python", "HTML", "Javascript", "CSS", "C++"]
+```python
+# Information about me
+about_me = {
+    "name": "Aradhya Baliyan",
+    "age": 20,
+    "status": "Second Year University Student"
+}
 
- # my contact details
-  socials = {"telegram" : "https://t.me/mureadit", "discord" : "https://discordapp.com/users/860408741936627714"}
+# Coding languages I'm currently learning
+coding_languages = ["Python", "HTML", "JavaScript", "CSS", "C++"]
+
+# Connect with me
+socials = {
+    "telegram": "[https://t.me/mureadit](https://t.me/mureadit)",
+    "discord": "[https://discordapp.com/users/860408741936627714](https://discordapp.com/users/860408741936627714)"
+}
 ```
-
-
-
-
-
-
-
-
-
-
-
