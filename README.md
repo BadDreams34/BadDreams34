@@ -10,6 +10,6 @@ about_me = {
 coding_languages = ["Python", "HTML", "JavaScript", "CSS", "C++"]
 ```
 
-### 🤝 Connect with me
+Socials: 
 *   **Telegram:** [@mureadit](https://t.me/mureadit)
 *   **Discord:** [Add Me](https://discordapp.com/users/860408741936627714)
