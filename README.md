@@ -1,4 +1,3 @@
-```py
 # Information about me
 about_me = {
     "name": "Aradhya Baliyan",
@@ -8,8 +7,9 @@ about_me = {
 
 # Coding languages I'm currently learning
 coding_languages = ["Python", "HTML", "JavaScript", "CSS", "C++"]
-```
 
-Socials: 
-*   **Telegram:** [@mureadit](https://t.me/mureadit)
-*   **Discord:** [Add Me](https://discordapp.com/users/860408741936627714)
+# Connect with me
+socials = {
+*   "telegram": "https://t.me/mureadit",
+*   "discord": "https://discordapp.com/users/860408741936627714"
+}
