@@ -1,3 +1,6 @@
+# Hi there, I'm Aradhya! 👋
+
+```python
 # Information about me
 about_me = {
     "name": "Aradhya Baliyan",
@@ -10,6 +13,9 @@ coding_languages = ["Python", "HTML", "JavaScript", "CSS", "C++"]
 
 # Connect with me
 socials = {
-*   "telegram": "https://t.me/mureadit",
-*   "discord": "https://discordapp.com/users/860408741936627714"
+    "telegram": "https://t.me/mureadit",
+    "discord": "https://discordapp.com/users/860408741936627714"
 }
+
+"""camel_case >>> snakeCase"""
+```
