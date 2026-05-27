@@ -1,4 +1,3 @@
-# Hi there, I'm Aradhya! 👋
 
 ```python
 # Information about me
@@ -17,5 +16,5 @@ socials = {
     "discord": "https://discordapp.com/users/860408741936627714"
 }
 
-"""camel_case >>> snakeCase"""
+"""fun_fact = camel_case >>> snakeCase"""
 ```
