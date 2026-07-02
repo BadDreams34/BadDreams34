@@ -16,5 +16,5 @@ socials = {
     "discord": "https://discordapp.com/users/860408741936627714"
 }
 
-"""fun_fact = camel_case >>> snakeCase"""
+"""fun_fact = snake_case >>> camelCase"""
 ```
