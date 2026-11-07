@@ -12,8 +12,7 @@ coding_languages = ["Python", "HTML", "JavaScript", "CSS", "C++"]
 
 # Connect with me
 socials = {
-    "telegram": "https://t.me/mureadit",
-    "discord": "https://discordapp.com/users/860408741936627714"
+    "telegram": "https://t.me/mureadit"
 }
 
 """fun_fact = snake_case >>> camelCase"""
