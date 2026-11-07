@@ -8,10 +8,10 @@ about_me = {
 }
 
 # Coding languages I'm currently learning
-coding_languages = ["Python", "HTML", "JavaScript", "CSS", "C++"]
+coding_languages = ["Python", "HTML", "JavaScript", "CSS"]
 
 # Current Skills
-skills = ["Ai Engineering", "DSA"]
+skills = ["Ai Engineering", "DSA", "Full Stack Development"]
 # Connect with me
 socials = {
     "telegram": "https://t.me/mureadit"
